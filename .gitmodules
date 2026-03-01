@@ -1,9 +1,3 @@
-[submodule "extern/OpenCLWrapper"]
-	path = extern/OpenCLWrapper
-	url = https://github.com/naschpitz/openCLWrapper.git
-[submodule "extern/ANN"]
-	path = extern/ANN
-	url = https://github.com/naschpitz/ANN.git
 [submodule "extern/CNN"]
 	path = extern/CNN
 	url = https://github.com/naschpitz/CNN.git
